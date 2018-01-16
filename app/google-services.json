@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "968661721696",
+    "firebase_url": "https://chat-eca13.firebaseio.com",
+    "project_id": "chat-eca13",
+    "storage_bucket": "chat-eca13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968661721696:android:4f918c3a8071a784",
+        "android_client_info": {
+          "package_name": "com.example.ruchira.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968661721696-a2lj9i6m4lntldbhejcvtkqun6ke2e40.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ruchira.chat",
+            "certificate_hash": "5dcf1384ccb8dbd818cec2c25427e8457b6397ce"
+          }
+        },
+        {
+          "client_id": "968661721696-k19t27vnsid7s7ihn08evpa7ofiis05e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfFP-2pxidbpH-bdjTnMI_H8kmlZFurNA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968661721696-k19t27vnsid7s7ihn08evpa7ofiis05e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968661721696:android:022f238c4fd14632",
+        "android_client_info": {
+          "package_name": "com.example.ruchira.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968661721696-3f2f4f2e6jjbiqs66euj5s0nghoq80bq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ruchira.chatapplication",
+            "certificate_hash": "5dcf1384ccb8dbd818cec2c25427e8457b6397ce"
+          }
+        },
+        {
+          "client_id": "968661721696-k19t27vnsid7s7ihn08evpa7ofiis05e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfFP-2pxidbpH-bdjTnMI_H8kmlZFurNA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968661721696-k19t27vnsid7s7ihn08evpa7ofiis05e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
